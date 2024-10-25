@@ -1,4 +1,4 @@
-import './Country.css'
+import './Country.css';
 
 const Country = ({country}) => {
     const {name, flags, population, area} = country;
